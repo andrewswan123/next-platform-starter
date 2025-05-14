@@ -1,0 +1,26 @@
+Source Name,Severity,Event Type,Time
+DNS - ns2.byet.org - azfisheries123.free.nf - A,Down,Availability,"Sun May 11, 2025, 2:12:30 PM",Monitoring of private IP is restricted.
+DNS - ns2.byet.org - azfisheries123.free.nf - A,Up,Availability,"Sun May 11, 2025, 2:13:06 PM",Status Cleared after 0 Mins 36 Secs
+DNS - ns2.byet.org - azfisheries123.free.nf - A,Down,Availability,"Sun May 11, 2025, 5:25:43 PM",Monitoring of private IP is restricted.
+DNS - ns2.byet.org - azfisheries123.free.nf - A,Up,Availability,"Sun May 11, 2025, 5:26:48 PM",Status Cleared after 1 Mins 5 Secs
+DNS - ns2.byet.org - azfisheries123.free.nf - A,Down,Availability,"Sun May 11, 2025, 5:28:21 PM",Monitoring of private IP is restricted.
+DNS - ns2.byet.org - azfisheries123.free.nf - A,Up,Availability,"Sun May 11, 2025, 5:28:57 PM",Status Cleared after 0 Mins 36 Secs
+DNS - ns2.byet.org - azfisheries123.free.nf - A,Down,Availability,"Sun May 11, 2025, 9:47:30 PM",Monitoring of private IP is restricted.
+DNS - ns2.byet.org - azfisheries123.free.nf - A,Up,Availability,"Sun May 11, 2025, 9:48:06 PM",Status Cleared after 0 Mins 36 Secs
+DNS - ns2.byet.org - azfisheries123.free.nf - A,Down,Availability,"Sun May 11, 2025, 9:48:37 PM",Monitoring of private IP is restricted.
+DNS - ns2.byet.org - azfisheries123.free.nf - A,Up,Availability,"Sun May 11, 2025, 9:52:04 PM",Status Cleared after 3 Mins 26 Secs
+DNS - ns5.byet.org - azfisheries123.free.nf - A,Down,Availability,"Sun May 11, 2025, 5:25:59 PM",Monitoring of private IP is restricted.
+DNS - ns5.byet.org - azfisheries123.free.nf - A,Up,Availability,"Sun May 11, 2025, 5:26:46 PM",Status Cleared after 0 Mins 47 Secs
+DNS - ns5.byet.org - azfisheries123.free.nf - A,Down,Availability,"Sun May 11, 2025, 9:48:47 PM",Monitoring of private IP is restricted.
+DNS - ns5.byet.org - azfisheries123.free.nf - A,Up,Availability,"Sun May 11, 2025, 9:49:23 PM",Status Cleared after 0 Mins 36 Secs
+DNS - ns5.byet.org - azfisheries123.free.nf - A,Down,Availability,"Sun May 11, 2025, 9:49:54 PM",Monitoring of private IP is restricted.
+DNS - ns5.byet.org - azfisheries123.free.nf - A,Up,Availability,"Sun May 11, 2025, 9:50:31 PM",Status Cleared after 0 Mins 37 Secs
+DNS - ns1.byet.org - azfisheries123.free.nf - A,Down,Availability,"Sun May 11, 2025, 9:49:01 PM",Monitoring of private IP is restricted.
+DNS - ns1.byet.org - azfisheries123.free.nf - A,Up,Availability,"Sun May 11, 2025, 9:49:37 PM",Status Cleared after 0 Mins 36 Secs
+DNS - ns1.byet.org - azfisheries123.free.nf - A,Down,Availability,"Sun May 11, 2025, 9:50:08 PM",Monitoring of private IP is restricted.
+DNS - ns1.byet.org - azfisheries123.free.nf - A,Up,Availability,"Sun May 11, 2025, 9:50:43 PM",Status Cleared after 0 Mins 35 Secs
+DNS - ns1.byet.org - azfisheries123.free.nf - A,Down,Availability,"Mon May 12, 2025, 12:23:52 PM",Monitoring of private IP is restricted.
+DNS - ns3.byet.org - azfisheries123.free.nf - A,Down,Availability,"Sun May 11, 2025, 5:26:44 PM",Monitoring of private IP is restricted.
+DNS - ns3.byet.org - azfisheries123.free.nf - A,Up,Availability,"Sun May 11, 2025, 5:28:52 PM",Status Cleared after 2 Mins 8 Secs
+DNS - ns3.byet.org - azfisheries123.free.nf - A,Down,Availability,"Sun May 11, 2025, 9:48:00 PM",Monitoring of private IP is restricted.
+DNS - ns3.byet.org - azfisheries123.free.nf - A,Up,Availability,"Sun May 11, 2025, 9:48:37 PM",Status Cleared after 0 Mins 37 Secs
